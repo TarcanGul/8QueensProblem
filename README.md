@@ -6,7 +6,7 @@
 ### Classes included:
 ```
 Solution: Object that holds a 2D boolean solution.
-SolutionAlgrorithm: The class that solves the Queens problem mathematically and gives us Solution objects.
+EightQueensSolution: The class that solves the Queens problem mathematically and gives us Solution objects.
 BoardComponent:  Where we draw the board and put the queens.
 BoardPanel: Where we mix the buttons with the component.
 SolutionViewer: The test class which puts the panel to the frame.
